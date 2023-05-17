@@ -1,0 +1,44 @@
+/*UTILITIES*/
+.border {
+    border: 2px dashed black;
+}
+
+/*HEADER*/
+header {
+    background-color:rgb(44,62,80);
+    height: 50px;
+}
+
+/*SECTION 1*/
+#start {
+    background-color: rgb(26,188,156);
+    height: 250px;
+}
+
+/*SECTION 2*/
+#portfolio {
+    height: 1000px;
+}
+
+/*SECTION 3*/
+#about {
+    background-color: rgb(26,188,156);
+    height: 350px; 
+}
+
+/*SECTION 4*/
+#contact {
+    height: 350px;
+}
+
+/*SECTION 5*/
+#location {
+    height: 350px;
+    background-color: rgb(58,84,109);
+}
+
+/*FOOTER*/
+footer {
+    background-color: rgb(44,62,80);
+    height: 50px;
+}
