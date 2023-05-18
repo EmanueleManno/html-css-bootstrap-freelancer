@@ -13,28 +13,28 @@ header {
 /*SECTION 1*/
 #start {
     background-color: rgb(26,188,156);
-    height: 350px;
+    height: 450px;
 }
 
 /*SECTION 2*/
 #portfolio {
-    height: 500px;
+    height: auto;
 }
 
 /*SECTION 3*/
 #about {
     background-color: rgb(26,188,156);
-    height: 250px; 
+    height: 500px; 
 }
 
 /*SECTION 4*/
 #contact {
-    height: 400px;
+    height: 600px;
 }
 
 /*SECTION 5*/
 #location {
-    height: 150px;
+    height: 250px;
     background-color: rgb(58,84,109);
 }
 
@@ -42,4 +42,27 @@ header {
 footer {
     background-color: rgb(44,62,80);
     height: 50px;
+}
+
+/*DIMENSIONI IMMAGINI*/
+.img-dim {
+    height: 200px;
+    width: 100%;
+}
+
+/*PERSONALIZZAZIONE BOTTONE*/
+.btn-personalize {
+    background-color: rgb(26,188,156);
+    border-color: white;
+}
+
+/*SPACE-BOTTOM*/
+.space-bottom {
+    padding-bottom: 100px;
+}
+
+/*PERSONALIZZAZIONE DEL LINK*/
+.link-personalize {
+    color: rgb(26,188,156);
+    text-decoration: underline;
 }
