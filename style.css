@@ -13,28 +13,15 @@ header {
 /*SECTION 1*/
 #start {
     background-color: rgb(26,188,156);
-    height: 450px;
-}
-
-/*SECTION 2*/
-#portfolio {
-    height: auto;
 }
 
 /*SECTION 3*/
 #about {
     background-color: rgb(26,188,156);
-    height: 500px; 
-}
-
-/*SECTION 4*/
-#contact {
-    height: 600px;
 }
 
 /*SECTION 5*/
 #location {
-    height: 350px;
     background-color: rgb(58,84,109);
 }
 
